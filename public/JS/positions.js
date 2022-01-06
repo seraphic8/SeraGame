@@ -1833,6 +1833,221 @@ const positions = [{
   "img": '<img class="position-img" src="https://sexpositions.club/wp-content/uploads/2019/06/19_33.png" alt="position"/>',
   "time": 120
 },
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/9664ed30-9eec-4233-aa2b-6be30d58b534.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/7100f78c-0e92-42b7-9f3b-eb4edcd7e55c.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/8b89c746-aab7-4366-9676-c07e01abde89.jpg" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/52977c09-e637-48d7-8618-da9d4d1765a8.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/325fc98f-74f5-49ff-a9e6-6bf39fd9867b.jpg" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/761d98db-fbac-4e7b-ab32-39629c6148bc.png" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/6d289829-5c1c-4044-8848-a098591cf847.png" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/a8df228d-f5d6-48aa-96b4-64cfe51be5dc.jpg" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/6c218b9d-59ed-41c6-a62e-afdc0af38138.png" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/cce1865b-ab71-4a30-a55e-bc45f33d286d.png" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/b1892c87-ff8b-4413-93d1-98b64037e481.png" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/d9113ed2-dbda-437f-b6ca-b3df0a1ff041.png" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/d54aecf27856468fabba14d64fbc93d6.jpg" alt="position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/a51c46af5e7b4f05ab612f99ffb20fd9.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/4ed009c5-67f1-4927-b196-68768ce69837.jpg" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/801695a8-8edf-4501-9f5a-4e2d52c04418.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/e45d90f5-f68b-4df8-9263-da32ef9f8616.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/07ee8b03-f24a-4a3f-a5a6-62353e757c6c.jpg" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/ec661a9b-ea12-48a2-8485-6f02366f5fba.jpg" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/4d6d69af-4636-4e71-b66a-8cc4af66095a.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/8b78cc36-0d8c-40ab-8e47-39f6aa762aee.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/fingeringmirror.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/fingeringdoggie.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/rubbingpussysolo.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/girlmasturbatingshower-1024x799.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/manwatchingwomanmasturbate.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/girlmasturbating.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/pillowhumping.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/balloonmasturbating.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/dildomasturbating.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/womanheelmasturbating.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.schoolofsquirt.com/wp-content/uploads/2019/10/dildoinpanties.png" alt="mast-position"/>',
+  "time": 60
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://d3f650ayx9w00n.cloudfront.net/lib/mm-potw-mutual-masturbation-340x340-soft-touch.jpg" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://d3f650ayx9w00n.cloudfront.net/lib/mm-potw-mutual-masturbation-340x340-lovers-lounge.jpg" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://d3f650ayx9w00n.cloudfront.net/lib/mm-potw-mutual-masturbation-340x340-peep-show.jpg" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://d3f650ayx9w00n.cloudfront.net/lib/mm-potw-mutual-masturbation-340x340-club-96.jpg" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://d3f650ayx9w00n.cloudfront.net/lib/mm-potw-mutual-masturbation-340x340-the-proposition.jpg" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://d3f650ayx9w00n.cloudfront.net/lib/mm-potw-mutual-masturbation-340x340-wow-the-webcam.jpg" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.adameve.com/CMS/Image/607074-671865-0x0.webp" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.adameve.com/CMS/Image/586218-641678-0x0.webp" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.adameve.com/CMS/Image/579828-633177-0x0.webp" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://www.adameve.com/CMS/Image/558546-604964-0x0.webp" alt="mast-position"/>',
+  "time": 90
+},
+{
+  "options": 'opt1',
+  "img": '<img class="position-img" src="https://bosnahersekuniversitelerim.com/c9/img/mutual-masturbation-genital-massage-2.png" alt="mast-position"/>',
+  "time": 90
+},
 
 // opt2
 
@@ -1883,7 +2098,7 @@ const positions = [{
 },
 {
   "options": 'opt2',
-  "img": '<img class="position-img" src="hhttps://www.kinkly.com/images/uploads/712cf0b2-8fd7-4efc-8f87-0d4f0487bede.png" alt="position"/>',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/712cf0b2-8fd7-4efc-8f87-0d4f0487bede.png" alt="position"/>',
   "time": 120
 },
 {
@@ -1973,7 +2188,52 @@ const positions = [{
 },
 {
   "options": 'opt2',
-  "img": '<img class="position-img" src="hhttps://www.sexy-charmes.fr/blog/wp-content/uploads/2020/08/suctioncupdildothreesome.jpg" alt="position"/>',
+  "img": '<img class="position-img" src="https://www.sexy-charmes.fr/blog/wp-content/uploads/2020/08/suctioncupdildothreesome.jpg" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/62558389-a463-4c65-bb0f-5892866e2dcb.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/ef45c50f-0d53-451c-9059-478c94442c03.png" alt="position"/>',
+  "time": 90
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/a9410a61-4033-40ca-a8f1-b03b27b26925.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/35ca9bc9-40ab-4d3d-9a3f-4603b30f84a0.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/bcc5019c-84e3-4568-8177-3719d824467b.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/4d1cfacc-68ee-4aeb-9806-4ba6f7930fd4.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/62558389-a463-4c65-bb0f-5892866e2dcb.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/e94634f7-f9c4-415e-8cca-d50cbc518e22.png" alt="position"/>',
+  "time": 90
+},
+{
+  "options": 'opt2',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/85b91750-503a-4883-9426-75f051184561.png" alt="position"/>',
   "time": 120
 },
 
@@ -2559,6 +2819,41 @@ const positions = [{
   "img": '<img class="position-img" src="http://www.kamasutracourse.com/positions/png/12_01_3-012Whisper.png" alt="position"/>',
   "time": 180
 },
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/72c94949-b460-48c7-b3f0-ee1199e4f160.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/c4fd7cf9-4fe5-4252-809a-d26b6fcd2b49.png" alt="position"/>',
+  "time": 180
+},
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/aef2baf9-7b7a-4a12-99f8-2ee2f6ec6640.png" alt="position"/>',
+  "time": 180
+},
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/a82aebbf-1a69-493e-ad70-22604dc9b297.png" alt="position"/>',
+  "time": 180
+},
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/14d45049-52c4-498d-a589-3c5ff2b3b662.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/afa83988-4be2-4b86-baaa-468018b624ef.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt3',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/8bda8635-15b7-45e5-927c-0b3c39a68ccf.jpg" alt="position"/>',
+  "time": 120
+},
 
 // opt5
 
@@ -2635,6 +2930,46 @@ const positions = [{
 {
   "options": 'opt5',
   "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/173dca49-c5b5-4045-b558-1ef2e1402f57.png" alt="position"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/66571fa3-d8d2-40f5-9dc6-78a94663568e.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/fcf400ad-82ec-4559-81b4-4eb0637dcbe5.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/19899d97-c9d5-42b3-9ba9-904ad0d0dde9.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/5e13adac-9d75-4c91-8d9b-435f6fb8a7a9.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/72934fdc-0ebb-4fd1-aed6-1d3da06dd337.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/ba336b7d-3f11-4d23-9095-24e509e7bffc.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/f05a1d6e-d5d4-4a89-9650-4b5af8102b53.png"/>',
+  "time": 120
+},
+{
+  "options": 'opt5',
+  "img": '<img class="position-img" src="https://www.kinkly.com/images/uploads/d26eb241-84b1-4fc9-834b-3ea4e3e8483e.png"/>',
   "time": 120
 }
 ];
