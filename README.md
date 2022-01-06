@@ -1,0 +1,2 @@
+# SeraGame
+private game
