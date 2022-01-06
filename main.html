@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/00f509e342.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./public/css/style.css">
+    <title>site test</title>
+</head>
+<body>
+    <header>
+        <!-- <img class="header-img" src="public/img/header.png" alt="Logo Header"/> -->
+    </header>
+    <article>
+        <section id="players">
+            <div>
+                <div id="joueurs">
+                    <div class="groupe">
+                        <label for="player1">player1</label><br>
+                        <input id="player1" type="text" placeholder="Monsieur">
+                    </div>
+                    <div class="groupe">
+                        <label for="player2">player2</label><br>
+                        <input id="player2" type="text" placeholder="Madame">
+                    </div>
+                    <button id="addNames" type="button" class="btn">add</button>
+                </div>
+            </div>
+        </section>
+        <section id="options">
+            <button id="activeName" type="button" class="btn">player</button>
+            <div id="check_options">
+                <p>Options:</p>
+                <label class="container">
+                    <input id='boxAll' type="checkbox" checked> all
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">
+                    <input type="checkbox" name="optbox" value='opt1'> Vanilla
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">
+                    <input type="checkbox" name="optbox" value='opt2'> Jouet
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">
+                    <input type="checkbox" name="optbox" value='opt3'> Oral
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">
+                    <input type="checkbox" name="optbox" value='opt4'> Anal
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">
+                    <input type="checkbox" name="optbox" value='opt5'> Bondage
+                    <span class="checkmark"></span>
+                </label>
+            </div>
+            <button id='resultBtn' class="btn btn-result">run</button>
+            <button id='positionBtn' class="btn btn-position">Position</button>
+        </section>
+        <section id="game">
+            <div id="choix-lvl">
+                <p>lvl:</p>
+                <div>
+                    <input type="radio" name="select-lvl" value="lvl1" checked>
+                    <label for="lvl1">lvl1</label>
+                </div>
+                <div>
+                    <input type="radio" name="select-lvl" value="lvl2">
+                    <label for="lvl2">lvl2</label>
+                </div>
+                <div>
+                    <input type="radio" name="select-lvl" value="lvl3">
+                    <label for="lvl3">lvl3</label>
+                </div>
+                <div>
+                    <input type="radio" name="select-lvl" value="lvl4">
+                    <label for="lvl4">lvl4</label>
+                </div>
+                <div>
+                    <input type="radio" name="select-lvl" value="lvl5">
+                    <label for="lvl5">lvl5</label>
+                </div>
+            </div>
+            <div id="result"></div>
+            <div id="timer"></div>  
+            <button id='timerBtn' class="btn btn-timer">Start</button>   
+        </section>
+        <section class="modif_timer">
+            <div class="groupe">
+                <label for="modifTimer">modif timer</label><br>
+                <input id="modifTimer" type="number" placeholder="temps" min="10">
+            </div>
+            <button id="modifTimerBtn" class="btn">Change</button>
+        </section>
+    </article>
+    <footer></footer>
+    <script type="module" src="./public/JS/main.js"></script>
+</body>
+</html>

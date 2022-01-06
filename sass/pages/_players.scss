@@ -1,0 +1,20 @@
+#joueurs {
+    // border: 5px solid aqua;
+    @include flex-row;
+    @include section-margins;
+    & div {
+        // margin: 10px 20px 10px 20px;
+        margin-right: 2%;
+    }
+}
+#lvl {
+    border: 5px solid darkblue;
+    @include flex-row;
+    // & div {
+        // margin: 10px 20px 10px 20px;
+    // }
+    #new-text {
+        width: 500px;
+        height: 150px;
+    }
+}

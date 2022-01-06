@@ -1,0 +1,30 @@
+// *,
+// *::after,
+// *::before {
+//     margin: 0;
+//     padding: 0;
+//     box-sizing: inherit;
+// }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0px;
+}
+
+// article {
+//     background-color: $color-third;
+// }
+
+figure {
+    margin: 0%;
+    padding: 0%;
+}
+
+input {
+    background-color: $color-light;
+}

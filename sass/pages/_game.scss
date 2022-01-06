@@ -1,0 +1,23 @@
+#game {
+    // border: 5px solid purple;
+    @include flex-row;
+    @include section-margins;
+    & #choix-lvl {
+        width: 60px;
+    }
+    & #result {
+        margin: 0 2% 0 2%;
+        width: 50%;
+        @include game-result;
+        min-height: 50px;
+    }
+    & #timer {
+        margin: 0 2% 0 2%;
+        width: 100px;
+        @include game-result;
+        height: 50px;
+    }
+}
+.position-img {
+    width: 100%;
+}

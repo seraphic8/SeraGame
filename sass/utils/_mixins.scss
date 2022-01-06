@@ -1,0 +1,76 @@
+@mixin section-margins {
+    margin: 2% 2% 2% 2%;
+}
+
+@mixin flex-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@mixin game-result {
+    border: 2px solid $color-secondary;
+    border-radius: 10px;
+    background-color: $color-light;
+}
+
+
+// @mixin flex-wrap {
+//     display: flex;
+//     flex-direction: row;
+//     flex-wrap: wrap;
+//     justify-content: space-between;
+// }
+
+// @mixin center-vert {
+//     display: flex;
+//     align-items: center;
+// }
+
+// @mixin lower-info {
+//     width: 40%;
+//     overflow: hidden;
+//     text-overflow: ellipsis;
+//     height: 65%;
+//     margin: $margin-infos;
+// }
+
+// @mixin center-item {
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+// @mixin filtres {
+//     margin: 1%;
+//     height: 69px;
+//     width: 170px;
+//     padding-left: 15px;
+//     @include border-rad;
+//     border: hidden;
+//     color: $color-light;
+// }
+
+// @mixin li-number {
+//     position: absolute;
+//     @include center-item;
+//     left: 20px;
+//     height: 22px;
+//     width: 22px;
+//     background-color: $color-primary;
+//     color: $color-light;
+//     border-radius: 50%;
+// }
+
+// @mixin wrap {
+//     position: relative;
+//     display: flex;
+//     flex-flow: row;
+// }
+
+
+// @mixin wrap-text {
+//     white-space: nowrap;
+//     text-overflow: ellipsis;
+//     overflow: hidden;
+// }

@@ -1,0 +1,11 @@
+header {
+    background: linear-gradient(0, $color-primary, $color-secondary);
+    height: 200px;
+    width: 100%;
+    & .header-img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+}

@@ -1,0 +1,7 @@
+.modif_timer {
+    @include flex-row;
+    margin: 2%;
+    & #modifTimerBtn{
+        margin: 0 2% 0 2%;
+    }
+}

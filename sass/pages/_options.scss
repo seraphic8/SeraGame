@@ -1,0 +1,12 @@
+#options {
+    // border: 5px solid purple;
+    @include flex-row;
+    @include section-margins;
+    & div {
+        margin: 10px 2% 10px 2%;
+    }
+}
+
+#activeName {
+    width: min-content;
+}
