@@ -100,11 +100,11 @@ footer {
   margin: 2% 2% 2% 2%;
 }
 #game #choix-lvl {
+  margin: 10px 0 10px 0;
   width: 60px;
 }
 #game #result {
-  margin: 0 2% 0 2%;
-  width: 50%;
+  margin: 10px 2% 10px 2%;
   border: 2px solid #68d9a4;
   border-radius: 10px;
   background-color: #ffffff;
@@ -131,6 +131,17 @@ footer {
 }
 .modif_timer #modifTimerBtn {
   margin: 0 2% 0 2%;
+}
+
+@media all {
+  #result {
+    width: 850px;
+  }
+}
+@media all and (max-width: 1024px) {
+  #result {
+    width: calc(94% - 60px);
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

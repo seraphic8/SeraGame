@@ -1,9 +1,8 @@
-// @media all {
-//     // fiches
-//     .bloc-recette {
-//         width: 100%;
-//     }
-// }
+@media all {
+    #result {
+        width: 850px;
+    }
+}
 
 // @media all and (min-width: 720px) {
 //     // logo
@@ -17,14 +16,8 @@
 //     }
 // }
 
-// @media all and (min-width: 1024px) {
-//     // logo
-//     .accueil__logo {
-//         height: 100px;
-//         width: auto;
-//     }
-//     // fiches
-//     .bloc-recette {
-//         width: 29.3%;
-//     }
-// }
+@media all and (max-width: 1024px) {
+    #result {
+        width: calc(94% - 60px);
+    }
+}
